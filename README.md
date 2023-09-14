@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Ezequielvanique
+- 👋 Hi, I’m Ezequiel Vanique
 - 👀 I’m interested in em aprender mais sobre minha area sou inicianate... 
-- 🌱 I’m currently learning  estou aprendendo ADS
+- 🌱 I’m currently learning  estou aprendendo 
+- 🌱 I’m currently learning  estou aprendendo JAVASCRIPT, PYTHON, HTML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
