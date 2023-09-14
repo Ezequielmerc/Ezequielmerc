@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ezequiel Vanique
-- 👀 I’m interested in em aprender mais sobre minha area sou inicianate na area de progrmacao
+- 👀 I’m interested in em aprender mais sobre minha area sou inicianate na area de progrmaçao
 - 
 - 🌱 I’m currently learning  estou aprendendo JAVASCRIPT, PYTHON, HTML 
 - 💞️ I’m looking to collaborate on ...
